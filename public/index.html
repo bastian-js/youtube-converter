@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title>YouTube Converter</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+ 
+<link rel="icon" href="/favicon.png" type="image/png">
+  </head>
+  <body>
+    <div class="container">
+      <h1>YouTube Converter</h1>
+      <form id="downloadForm" method="GET" action="/download">
+        <div class="input-group">
+          <input
+            type="text"
+            name="url"
+            placeholder="YouTube-URL eingeben"
+            required
+          />
+          <select name="format">
+            <option value="mp4">MP4</option>
+            <option value="mp3">MP3</option>
+          </select>
+        </div>
+        <div class="full-width">
+          <button type="submit">Download</button>
+        </div>
+      </form>
+    </div>
+
+    <footer>
+      <p>
+        &copy; 2025 – Made with ❤️
+        <a href="https://github.com/bastian-js" target="_blank">bastian-js</a>
+      </p>
+    </footer>
+  </body>
+</html>
