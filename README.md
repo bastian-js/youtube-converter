@@ -71,7 +71,7 @@ You are allowed to:
 - ✅ Use, modify, and host it privately or publicly  
 - ❌ **Not allowed** to use it commercially or claim it as your own
 
-Full license details: [LICENSE.md](./LICENSE)
+Full license details: [LICENSE](./LICENSE)
 
 ---
 
