@@ -5,7 +5,7 @@ Supports **MP3** and **MP4** download – even for age-restricted content.
 
 ---
 
-!(Preview https://converter.bbastian.xyz)[./preview.png]
+![Website Preview](./preview.png)
 
 ---
 
